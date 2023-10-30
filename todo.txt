@@ -1,0 +1,26 @@
+add phonecall Api and config it,
+config:
+    .regExp mongoose
+    .filtre by name
+    .facebook/insta/whatsUp
+    .added at>>>created at))
+    .like/favoris(boutique)
+
+update data for adding :
+
+    .pays/ville
+    .telephone
+    .boutique
+    .Name sailer
+    .email
+h
+
+use navigation drawer for explore all categories:
+    .favoris
+    .liked items
+    .update profile
+    
+//////rosite -- add new data enter
+
+
+change acount gmail
